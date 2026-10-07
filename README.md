@@ -37,19 +37,6 @@ time
 
 ---
 
-## 📂 Project Structure
-
-```text
-Amazon-Selenium-Automation/
-│
-├── amazon_automation.py
-├── README.md
-└── screenshots/
-    ├── amazon_homepage.png
-    ├── search_results.png
-    ├── product_page.png
-    └── add_to_cart.png
-```
 
 ---
 
